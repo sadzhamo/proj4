@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Hotel>
+    <Name>Westin</Name>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+  </Hotel>
+  <Hotel Rating="4.5">
+    <Name>Hilton</Name>
+    <Name>SecondName</Name>
+    <Phone>212-586-7000</Phone>
+    <Address NearestAirport="JFK">
+      <Number>1335</Number>
+      <Street>Avenue of the Americas</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
