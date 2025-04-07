@@ -13,7 +13,7 @@
     <Name>Hilton</Name>
     <Name>SecondName</Name>
     <Phone>212-586-7000</Phone>
-    <Address NearestAirport="JFK">
+    <Address NearstAirport="JFK">
       <Number>1335</Number>
       <Street>Avenue of the Americas</Street>
       <City>New York</City>
